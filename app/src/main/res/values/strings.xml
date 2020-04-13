@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BatterySwitch</string>
+    <string name="max_bat_level_string">Maximum battery level:</string>
+    <string name="battery_level_string">Battery level:</string>
+    <string name="discover_button_string">DISCOVER</string>
+    <string name="OpenDefaultString">A00100A1</string>
+    <string name="CloseDefaultString">A00101A2</string>
+    <string name="OpenString">Open HEX Value:</string>
+    <string name="CloseString">Close HEX Value:</string>
+    <string name="AutoFinishString">Auto Finish</string>
+</resources>
